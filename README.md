@@ -10,6 +10,6 @@
 
 
 - Pegar el link que copiamos desde el repositorio seguido del comando "git clone" > Enter
-- 
-![image](https://user-images.githubusercontent.com/82916451/221725292-317e2863-0d03-49a5-9546-f75e5cb7ec83.png)
+![image](https://user-images.githubusercontent.com/82916451/221725879-b27673d2-d7f8-4542-b9ed-54ad242aa294.png)
+
 
