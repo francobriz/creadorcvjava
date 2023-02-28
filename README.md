@@ -6,8 +6,9 @@
 
 - Crear una nueva carpeta, para clonar el repositorio
 - Segundo click en la carpeta > Git Bash Here
-image.png
+![image](https://user-images.githubusercontent.com/82916451/221725431-7d2167c9-8410-48f2-a0de-a6cb6fe4ecb9.png)
 
-- Pegar el link que copiamos desde el repositorio seguido del comando "git clone"
-image.png
-image.png
+
+- Pegar el link que copiamos desde el repositorio seguido del comando "git clone" > Enter
+![image](https://user-images.githubusercontent.com/82916451/221725292-317e2863-0d03-49a5-9546-f75e5cb7ec83.png)
+
