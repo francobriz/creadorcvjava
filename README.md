@@ -12,4 +12,6 @@
 - Pegar el link que copiamos desde el repositorio seguido del comando "git clone" > Enter
 ![image](https://user-images.githubusercontent.com/82916451/221725879-b27673d2-d7f8-4542-b9ed-54ad242aa294.png)
 
+- Y listo, el proyecto esta clonado en la carpeta
+![image](https://user-images.githubusercontent.com/82916451/221726072-7d7f28a8-6f48-46e8-9896-84e6d1f01e55.png)
 
